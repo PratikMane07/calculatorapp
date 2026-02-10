@@ -4,6 +4,7 @@ public class A
   {
      System.out.println("Hello world");
      System.out.println("First Change");
+    System.out.println("Second chnage from global");
   }
 
 }
